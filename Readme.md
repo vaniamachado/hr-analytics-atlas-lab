@@ -1,14 +1,22 @@
 
 # HR Analytics — Atlas Labs
 
+<p align="center">
+  <img src="5_HR_photo.jpg" width="60%"><br>
+  <em>Source: <a href="https://www.freepik.com/free-vector/choosing-best-candidate-concept_9430580.htm#fromView=search&page=1&position=20&uuid=bc058f87-dc03-4080-a87d-f21bd1d88135&query=HR+">Freepik</a></em>
+</p>
+
+
+### 📍 Overview
+
 In this Power BI case study, I built an end-to-end **HR Analytics report** for a fictitious technology company, **Atlas Labs**.  
 The goal of this project was to **monitor key employee metrics** and **understand what factors impact employee attrition**.
 
 This case study demonstrates skills in **data modeling, DAX calculations, and Power BI storytelling** — creating a fully interactive HR dashboard that provides actionable insights into workforce trends, diversity, and performance.
 
----
 
-## Project Overview
+
+### 🎯 Objectives
 
 The core goal of this case study is to design and develop a Power BI solution that allows Atlas Labs’ HR leadership team to:
 
@@ -234,11 +242,11 @@ This project strengthened my ability to:
 The **Atlas Labs HR Analytics Dashboard** consolidates all findings into one interactive Power BI report.  
 It empowers HR leaders to **track performance**, **analyze attrition**, and **promote data-driven talent management**.
 
-![HR Analytics Dashboard Preview](A_storyboard_of_a_Power_BI_dashboard_design_named_.png)
+![HR Analytics Dashboard](hr-analytics-atlas-lab-preview.gif)
 
 ---
 
-## 🧰 Tools Used
+## 🧰 Tools 
 
 **Power BI | Power Query | DAX | Data Modeling | Data Storytelling**
 
